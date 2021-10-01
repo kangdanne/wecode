@@ -7,5 +7,4 @@ function even() {
   }
   return even
 }
-
 even()
